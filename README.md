@@ -9,4 +9,4 @@ Sobre las tareas:
         this.sizeUniqueIps = sizeUniqueIps;
         this.uniqueIps = new HashSet<String>(); //ArrayList
     }
-  3. La tarea para aumentar la nota, se encuentra en otro repositorio: 
+  3. Pasar a otro lenguaje(menos java), las clases. Es tarea para aumentar la nota, se encuentra en otro repositorio: 
